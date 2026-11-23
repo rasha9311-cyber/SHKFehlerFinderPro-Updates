@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "documents": [
+    {
+      "manufacturer": "VAILLANT",
+      "model": "VC 146/5-5 (E-DE) R6",
+      "url": "https://www.vaillant.de/api/download/document/de/492972.pdf",
+      "verified": true,
+      "verification": "User confirmed applicability",
+      "title": "Installations- und Wartungsanleitung"
+    }
+  ]
+}
