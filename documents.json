@@ -24,6 +24,14 @@
       "verified": true,
       "verification": "Manufacturer document portal PDF retrieved; verify applicability and revision on device.",
       "title": "Inbetriebnahmeanleitung Wärmepumpen-Manager WPM"
+    },
+    {
+      "manufacturer": "WOLF",
+      "model": "CGB-24",
+      "url": "https://static1.wolfeu.website.svc.wolf.eu/public/assets/editors/de-de/mywolf/dokumente/wartungschecklisten/wartungscheckliste_cgb_cgs_cgw_csz_stand10-2016.pdf",
+      "verified": true,
+      "verification": "Official WOLF maintenance checklist explicitly lists CGB 11-24; check individual revision on device.",
+      "title": "Wartungscheckliste CGB 11–24"
     }
   ]
 }
