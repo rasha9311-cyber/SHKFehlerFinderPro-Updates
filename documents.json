@@ -32,6 +32,46 @@
       "verified": true,
       "verification": "Official WOLF maintenance checklist explicitly lists CGB 11-24; check individual revision on device.",
       "title": "Wartungscheckliste CGB 11–24"
+    },
+    {
+      "manufacturer": "WOLF",
+      "model": "CGB-11",
+      "url": "https://www.heima24.de/shop/images/products/media/montage_und_wartungsanleitung_wolf_cgb.pdf",
+      "verified": true,
+      "verification": "Original WOLF document 3044330_1109 hosted by dealer; model explicitly listed; verify device revision.",
+      "title": "Montage- und Wartungsanleitung WOLF CGB (3044330_1109)"
+    },
+    {
+      "manufacturer": "WOLF",
+      "model": "CGB-20",
+      "url": "https://www.heima24.de/shop/images/products/media/montage_und_wartungsanleitung_wolf_cgb.pdf",
+      "verified": true,
+      "verification": "Original WOLF document 3044330_1109 hosted by dealer; model explicitly listed; verify device revision.",
+      "title": "Montage- und Wartungsanleitung WOLF CGB (3044330_1109)"
+    },
+    {
+      "manufacturer": "WOLF",
+      "model": "CGB-24",
+      "url": "https://www.heima24.de/shop/images/products/media/montage_und_wartungsanleitung_wolf_cgb.pdf",
+      "verified": true,
+      "verification": "Original WOLF document 3044330_1109 hosted by dealer; model explicitly listed; verify device revision.",
+      "title": "Montage- und Wartungsanleitung WOLF CGB (3044330_1109)"
+    },
+    {
+      "manufacturer": "WOLF",
+      "model": "CGB-K-20",
+      "url": "https://www.heima24.de/shop/images/products/media/montage_und_wartungsanleitung_wolf_cgb.pdf",
+      "verified": true,
+      "verification": "Original WOLF document 3044330_1109 hosted by dealer; model explicitly listed; verify device revision.",
+      "title": "Montage- und Wartungsanleitung WOLF CGB (3044330_1109)"
+    },
+    {
+      "manufacturer": "WOLF",
+      "model": "CGB-K-24",
+      "url": "https://www.heima24.de/shop/images/products/media/montage_und_wartungsanleitung_wolf_cgb.pdf",
+      "verified": true,
+      "verification": "Original WOLF document 3044330_1109 hosted by dealer; model explicitly listed; verify device revision.",
+      "title": "Montage- und Wartungsanleitung WOLF CGB (3044330_1109)"
     }
   ]
 }
