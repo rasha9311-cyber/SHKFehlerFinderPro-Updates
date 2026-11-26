@@ -8,6 +8,22 @@
       "verified": true,
       "verification": "User confirmed applicability",
       "title": "Installations- und Wartungsanleitung"
+    },
+    {
+      "manufacturer": "STIEBEL_ELTRON",
+      "model": "WPM",
+      "url": "https://www.stiebel-eltron.de/content/dam/ste/cdbassets/current/bedienungs-_u_installationsanleitungen/installation_manual_doc-00060531.pdf",
+      "verified": true,
+      "verification": "Official manufacturer PDF identifies WPM; device revision must be checked before use.",
+      "title": "Bedienungsanleitung Wärmepumpen-Manager WPM"
+    },
+    {
+      "manufacturer": "STIEBEL_ELTRON",
+      "model": "WPM",
+      "url": "https://www.stiebel-eltron.de/content/dam/ste/cdbassets/current/bedienungs-_u_installationsanleitungen/instructionandinstallationmanual_doc-00126361.pdf",
+      "verified": true,
+      "verification": "Official manufacturer PDF identifies WPM; device revision must be checked before use.",
+      "title": "Inbetriebnahmeanleitung Wärmepumpen-Manager WPM"
     }
   ]
 }
